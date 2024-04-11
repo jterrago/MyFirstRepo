@@ -1,2 +1,1 @@
-print("Hellow")
-print("valorant")
+print("Hello World")
