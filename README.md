@@ -1,5 +1,8 @@
 # This is my first repository
-## This is my second push
-Hello!
+## Instructions
+Clone this repository
+
+Create a virtual environment.
+
 
 
